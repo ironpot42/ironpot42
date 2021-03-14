@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://github-readme-stats.vercel.app/api?username=ironpot42&show_icons=true&hide=stars,issues&count_private=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironpot42)](https://github.com/ironpot42/github-readme-stats)
